@@ -6,7 +6,7 @@
 
 ## Description
 
-This is an exercise implementing JavaScript, incorporating Gulp
+This is an exercise implementing JavaScript, incorporating Gulp in a development workflow.
 
 ## Setup/Installation Requirements
 
